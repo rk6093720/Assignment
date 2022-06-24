@@ -1,0 +1,15 @@
+.products {
+    
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.product {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.product div {
+    margin: auto;
+    text-align: center;
+}

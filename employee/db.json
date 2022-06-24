@@ -1,0 +1,125 @@
+{
+  "displaypic": [
+    {
+      "id": 1,
+      "name": "Rohit",
+      "email": "rk6093720@gmail.com",
+      "password": "12345",
+      "age": "23",
+      "address": "Bihar",
+      "department": "ComputerScience",
+      "salary": 50000,
+      "MaritalStatus": "single"
+    },
+    {
+      "name": "a",
+      "email": "rk@gmail.com",
+      "password": "s",
+      "age": 18,
+      "address": "sa",
+      "department": "computerscience",
+      "salary": "1234",
+      "MartialStatus": "married",
+      "id": 2
+    },
+    {
+      "name": "a",
+      "email": "rk@gmail.com",
+      "password": "s",
+      "age": "fals",
+      "address": "sa",
+      "department": "computerscience",
+      "salary": "1234",
+      "MartialStatus": "married",
+      "id": 3
+    },
+    {
+      "name": "a",
+      "email": "rk@gmail.com",
+      "password": "s",
+      "age": "fals",
+      "address": "sa",
+      "department": "computerscience",
+      "salary": "1234",
+      "MartialStatus": "married",
+      "id": 4
+    },
+    {
+      "name": "a",
+      "email": "rk@gmail.com",
+      "password": "s",
+      "age": "fals",
+      "address": "sa",
+      "department": "computerscience",
+      "salary": "1234",
+      "MartialStatus": "married",
+      "id": 5
+    },
+    {
+      "name": "a",
+      "email": "rk@gmail.com",
+      "password": "s",
+      "age": "fals",
+      "address": "sa",
+      "department": "computerscience",
+      "salary": "1234",
+      "MartialStatus": "married",
+      "id": 6
+    },
+    {
+      "name": "a",
+      "email": "rk@gmail.com",
+      "password": "s",
+      "age": "fals",
+      "address": "sa",
+      "department": "computerscience",
+      "salary": "1234",
+      "MartialStatus": "married",
+      "id": 7
+    },
+    {
+      "name": "Rohit",
+      "email": "rk@gmail.com",
+      "password": "12345",
+      "age": "22",
+      "address": "RunniSaidpur",
+      "department": "computerscience",
+      "salary": "35000",
+      "MartialStatus": "unmarried",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "age": 18,
+      "address": "",
+      "department": "",
+      "salary": 0,
+      "MartialStatus": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "age": 18,
+      "address": "",
+      "department": "computerscience",
+      "salary": 0,
+      "MartialStatus": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "age": 18,
+      "address": "",
+      "department": "computerscience",
+      "salary": 0,
+      "MartialStatus": "",
+      "id": 11
+    }
+  ]
+}

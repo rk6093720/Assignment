@@ -1,0 +1,15 @@
+.inputBox{
+    padding: 10px 16px ;
+    border-radius: 10px;
+    border-color: red;
+}
+
+.buttunbox{
+    padding: 8px;
+    border-radius: 7px;
+    border-color: red;
+    width: 3%;
+    font-size: 18px;
+    background-color: red;
+    color: white;
+}

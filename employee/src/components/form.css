@@ -1,0 +1,37 @@
+.form{
+    width: 20%;
+    height: 420px;
+    border: 2px solid red;
+    background-color: blanchedalmond;
+    margin: auto;
+    margin-top: 5px;
+}
+#name{
+    width: 55%;
+}
+#email{
+    width: 55%;
+}
+#password{
+    width: 55%;
+}
+.submit{
+    width: 50%;
+    background-color: red;
+
+}
+#age{
+    width: 55%;
+}
+#address{
+    width: 55%;
+}
+#department{
+    width: 55%;
+}
+#salary{
+    width: 55%;
+}
+#MartialStatus{
+    width: 55%;
+}
