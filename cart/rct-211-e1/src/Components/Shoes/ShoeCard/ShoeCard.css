@@ -1,0 +1,18 @@
+#card{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 10px;
+}
+.pic{
+    width: 150px;
+    height: 200px;
+}
+.single{
+    margin: auto;
+    
+    padding: 0 10px 0 20px;
+    border-radius: 5px;
+    width: 170px;
+
+    border: 1px solid green;
+}
